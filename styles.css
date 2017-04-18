@@ -1,0 +1,23 @@
+.title {
+  color: #416983;
+  font-size: 48px;
+  text-align: center;
+  font-family: Akzidenz Grotesk Regular;
+}
+
+.plot {
+  color: #416983;
+  font-size: 48px;
+  text-align: center;
+}
+
+img {
+  image-orientation: center;
+  display: block;
+  margin: auto;
+  width: 25%;
+}
+
+body {
+  background-color: #f0a251
+}
