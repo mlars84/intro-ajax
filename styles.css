@@ -6,9 +6,31 @@
 }
 
 .plot {
-  color: #416983;
+  color: #de342b;
+  font-size: 40px;
+  text-align: center;
+  font-family: Akzidenz Grotesk Regular;
+}
+
+.director {
+  color: #f0de3c;
   font-size: 48px;
   text-align: center;
+  font-family: Akzidenz Grotesk Regular;
+}
+
+.actors {
+  color: #de342b;
+  font-size: 40px;
+  text-align: center;
+  font-family: Akzidenz Grotesk Regular;
+}
+
+.released {
+  color: #416983;
+  font-size: 40px;
+  text-align: center;
+  font-family: Akzidenz Grotesk Regular;
 }
 
 img {
